@@ -14,15 +14,20 @@ Deuxièmement, la gestion des caractères Unicode (éventuellement des caractèr
 Ou bien, gérez les caractères comme les emoji dans une étape spéciale de prétraitement.
 <hr>
 
-# Les donnes avnt et après le traitements
+# Les donnes avant et après le traitements
 
 <br>
+
 <img src="imgs/img1.gif" >
 <hr>
-# classification des tweets selon leurs catégories
+
+# Les cluster  
 <br>
 <img src="imgs/img2.gif" >
 <hr>
-# classification des tweets selon leurs catégories
+# Partie supplimentaire
+
+##  Classification des tweets selon leurs catégories
+
 <br>
 <img src="imgs/img4.gif" >
