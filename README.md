@@ -21,7 +21,7 @@ Ou bien, gérez les caractères comme les emoji dans une étape spéciale de pr�
 <img src="imgs/img1.gif" >
 <hr>
 
-# Les cluster  
+# Les grappes   
 <br>
 <img src="imgs/img2.gif" >
 <hr>
