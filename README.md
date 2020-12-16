@@ -13,14 +13,16 @@ Deuxièmement, la gestion des caractères Unicode (éventuellement des caractèr
  des objectifs de votre modèle, il peut être utile de spécifier également une plage de caractères Unicode de valeur plus élevée à ajouter comme mots vides. 
 Ou bien, gérez les caractères comme les emoji dans une étape spéciale de prétraitement.
 <hr>
-## Les donnes avnt et après le traitements
+
+# Les donnes avnt et après le traitements
+
 <br>
 <img src="imgs/img1.gif" >
 <hr>
-### classification des tweets selon leurs catégories
+# classification des tweets selon leurs catégories
 <br>
 <img src="imgs/img2.gif" >
 <hr>
-### classification des tweets selon leurs catégories
+# classification des tweets selon leurs catégories
 <br>
 <img src="imgs/img4.gif" >
