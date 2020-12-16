@@ -12,5 +12,12 @@ Deuxièmement, la gestion des caractères Unicode (éventuellement des caractèr
  jetons de ponctuation de nos données avant d'ajuster un modèle - maintenant nous pouvons voir que nous ne l'avons fait que pour la ponctuation ASCII. En fonction
  des objectifs de votre modèle, il peut être utile de spécifier également une plage de caractères Unicode de valeur plus élevée à ajouter comme mots vides. 
 Ou bien, gérez les caractères comme les emoji dans une étape spéciale de prétraitement.
-
+## Les donnes avnt et après le traitements
 <img src="imgs/img1.gif" >
+## Les donnes avnt et après le traitements
+<img src="imgs/img2.gif" >
+## Les donnes avnt et après le traitements
+<img src="imgs/img3.gif" >
+## Partie supplimentaire 
+### classification des tweets selon leurs catégories
+<img src="imgs/img4.gif" >
