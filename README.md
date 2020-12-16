@@ -13,4 +13,4 @@ Deuxièmement, la gestion des caractères Unicode (éventuellement des caractèr
  des objectifs de votre modèle, il peut être utile de spécifier également une plage de caractères Unicode de valeur plus élevée à ajouter comme mots vides. 
 Ou bien, gérez les caractères comme les emoji dans une étape spéciale de prétraitement.
 
-<img src="imgs/img1.png" >
+<img src="imgs/img1.gif" >
