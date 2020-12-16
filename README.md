@@ -25,6 +25,7 @@ Ou bien, gérez les caractères comme les emoji dans une étape spéciale de pr�
 <br>
 <img src="imgs/img2.gif" >
 <hr>
+
 # Partie supplimentaire
 
 ##  Classification des tweets selon leurs catégories
